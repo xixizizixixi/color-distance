@@ -1,0 +1,12 @@
+{
+  "name": "xixizizixixi/color-distance",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Danmichaelo\\Coma\\": "./src/Danmichaelo/Coma/"
+    }
+  }
+}
